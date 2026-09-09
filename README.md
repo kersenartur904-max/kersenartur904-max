@@ -1,7 +1,6 @@
-<img src="ССЫЛКА_НА_ВАШЕ_ЛОГО" align="left" width="150" style="margin-right: 20px;" alt="Logo" />
+<img src="C:\Users\user\Downloads\photo_5262514366144257719_y.jpg" align="left" width="150" style="margin-right: 20px;" alt="Logo" />
 ### Hi there 👋, my name is Oved
 #### I'm frontend developer
-![I'm frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a beginner web developer interested in 3D modeling in Blender and creating simple websites.
 
