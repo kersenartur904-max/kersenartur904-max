@@ -5,13 +5,12 @@
 Our team leverages the latest technologies to create seamless, high-performance applications that deliver a consistent user experience across iOS, Android, and web platforms.
 
 
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/app_store.png" alt="App Store" width="180"/>
+ <p align="center">
+  <img src="https://github.com" alt="App Store" width="180"/>
+  <img src="https://github.com" alt="Google Play" width="180"/>
+  <img src="https://github.com" alt="The Unlimited" width="180"/>
+</p>
 
-
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="Google Play" width="180"/>
-
-
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="The Unlimited" width="180"/>
 
 
 ### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
