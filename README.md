@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Oved
 #### I'm frontend developer
-<img src="<img width="1260" height="1242" alt="photo_5262514366144257719_y" src="https://github.com/user-attachments/assets/0f12b35c-759e-4d22-a985-1816357889da" />
-" align="left" width="150" style="margin-right: 20px;" alt="Logo" />
+<img src="<img align="left" width="140"  alt="photo_5262514366144257719_y" src="https://github.com/user-attachments/assets/dcf100b7-4b9e-4a8a-bf4f-39f9f0d48ffe" />
 
 I am a beginner web developer interested in 3D modeling in Blender and creating simple websites.
 
