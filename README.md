@@ -1,4 +1,5 @@
 <img width="900" height="200" alt="Новый проект" src="https://github.com/user-attachments/assets/9cc13b33-10cf-4a56-9e38-03ccda08f9c9" />
+## Welcome to my page; my name is Oved, and I am an aspiring frontend developer.
 
 ## Platforms:
 Our team leverages the latest technologies to create seamless, high-performance applications that deliver a consistent user experience across iOS, Android, and web platforms.
