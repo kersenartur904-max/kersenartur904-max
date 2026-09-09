@@ -6,10 +6,11 @@ Our team leverages the latest technologies to create seamless, high-performance 
 
 
  <p align="center">
-  <img src="https://github.com" alt="App Store" width="180"/>
+  <img width="360" height="100" alt="Новый проект (1)" src="https://github.com/user-attachments/assets/a059fea0-f52a-412b-aeac-f3cef6e74b1e" />
   <img src="https://github.com" alt="Google Play" width="180"/>
   <img src="https://github.com" alt="The Unlimited" width="180"/>
 </p>
+
 
 
 
