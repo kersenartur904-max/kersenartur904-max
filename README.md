@@ -1,3 +1,4 @@
+<img src="ССЫЛКА_НА_ВАШЕ_ЛОГО" align="left" width="150" style="margin-right: 20px;" alt="Logo" />
 ### Hi there 👋, my name is Oved
 #### I'm frontend developer
 ![I'm frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
