@@ -8,7 +8,7 @@ Our team leverages the latest technologies to create seamless, high-performance 
  <p align="center">
   <img width="360" height="100" alt="Новый проект (1)" src="https://github.com/user-attachments/assets/a059fea0-f52a-412b-aeac-f3cef6e74b1e" />
   <img width="360" height="100" alt="Новый проект (2)" src="https://github.com/user-attachments/assets/b278f271-63cf-418a-ac25-b7b2477e7272" />
-  <img src="https://github.com" alt="The Unlimited" width="180"/>
+  <img width="1200" height="1693" alt="image" src="https://github.com/user-attachments/assets/aeae767d-2dc0-40c2-927a-74fea7e62030" />
 </p>
 
 
