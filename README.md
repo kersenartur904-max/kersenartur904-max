@@ -6,7 +6,7 @@ Our team leverages the latest technologies to create seamless, high-performance 
 
 
  <p align="center">
-  <img width="360" height="100" alt="Новый проект (1)" src="https://github.com/user-attachments/assets/a059fea0-f52a-412b-aeac-f3cef6e74b1e" />
+  <img width="360" height="100" alt="Новый проект (1)-no-bg-preview (carve photos)" src="https://github.com/user-attachments/assets/83c48495-48f7-4877-bc9e-1f4f1ab99368" />
   <img width="360" height="100" alt="Новый проект (2)" src="https://github.com/user-attachments/assets/b278f271-63cf-418a-ac25-b7b2477e7272" />
   <img width="360" height="100" alt="Новый проект (3)" src="https://github.com/user-attachments/assets/82bf34b7-b592-4ff2-ac85-0cf3cb873c8f" />
 </p>
