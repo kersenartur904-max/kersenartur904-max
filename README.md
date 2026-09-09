@@ -1,4 +1,5 @@
-[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.shpavda.com/)
+<img width="900" height="200" alt="Новый проект" src="https://github.com/user-attachments/assets/9cc13b33-10cf-4a56-9e38-03ccda08f9c9" />
+
 
 ### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
 
