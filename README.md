@@ -1,16 +1,13 @@
-## Hi there my name Oved. Glad to see you here!👋
+### Hi there 👋, my name is Oved
+#### I'm frontend developer
+![I'm frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**kersenartur904-max/kersenartur904-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner web developer interested in 3D modeling in Blender and creating simple websites.
 
-Here are some ideas to get you started:
+Skills: / Js / Html / Css/ Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
