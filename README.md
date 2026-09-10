@@ -4,15 +4,41 @@
 ## Slills:
 Our team leverages the latest technologies to create seamless, high-performance applications that deliver a consistent user experience across iOS, Android, and web platforms.
 
-### 🎯 Blender <br>💻 Htmls <br>🚀 Css
+<p align="center">
+  <img src="https://img.shields.io/badge/Blender-FFFFFF?style=for-the-badge&logo=blender&logoColor=f58d16" />
+  <img src="https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/CSS-FFFFFF?style=for-the-badge&logo=CSS&logoColor=31A8FF" />
+</p>
+
+
+ <br> <br>🚀 Css
+---
+<details>
+  <summary><b> 🔍 SKILLS </b></summary>
+  <br/>
+
+  - 🏫 **Blender:** I work in 3D and have a lot of skills in this direction.
+  -  🏫 **HTML:** I'm good at marking.
+ - 🏫 **CSS:** I work with styles.
+
+
+</details>
+
+<details>
+  <summary><b>🎨 Quick stats! </b></summary>
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Niverixus&theme=neutral&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niverixus&theme=neutral" alt="GitHub Streak" width="48%" />
+  </p>
+
+</details>
+
 ## Social Media:
 Be one of the first to join our growing community and transform your everyday life.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Blender-001E36?style=for-the-badge&logo=blender&logoColor=31A8FF" />
-  <img src="https://img.shields.io/badge/HTML-001E36?style=for-the-badge&logo=HTML&logoColor=31A8FF" />
 
-</p>
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
