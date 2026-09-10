@@ -4,7 +4,7 @@
 ## Slills:
 Our team leverages the latest technologies to create seamless, high-performance applications that deliver a consistent user experience across iOS, Android, and web platforms.
 
-### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
+### 🎯 Blender <br>🌍 Htmls <br>🚀 Css
 ## Social Media:
 Be one of the first to join our growing community and transform your everyday life.
 
