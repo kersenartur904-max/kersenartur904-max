@@ -10,16 +10,10 @@ Be one of the first to join our growing community and transform your everyday li
 
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-001E36?style=for-the-badge&logo=blender&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/HTML-001E36?style=for-the-badge&logo=HTML&logoColor=31A8FF" />
+
 </p>
 
-<p align="center">
-  <!-- Design & Video Editing Badges -->
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-999999?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
-  <img src="https://img.shields.io/badge/Blender-001E36?style=for-the-badge&logo=blender&logoColor=31A8FF" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=DaVinciResolve&logoColor=white" />
-</p>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alexeyshpavda)
