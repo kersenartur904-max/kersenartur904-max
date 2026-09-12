@@ -1,8 +1,8 @@
 <img width="900" height="200" alt="Новый проект" src="https://github.com/user-attachments/assets/9cc13b33-10cf-4a56-9e38-03ccda08f9c9" />
 <br> Welcome to my page; my name is Oved, and I am an aspiring frontend developer.
 
-## Slills:
-Our team leverages the latest technologies to create seamless, high-performance applications that deliver a consistent user experience across iOS, Android, and web platforms.
+## What I work with:
+I am a frontend developer. I work with tools such as Blender (3D modeling software), HTML (markup language), and CSS (styling).
 
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-FFFFFF?style=for-the-badge&logo=blender&logoColor=f58d16" />
@@ -11,7 +11,7 @@ Our team leverages the latest technologies to create seamless, high-performance 
 </p>
 
 
- <br> <br>🚀 Css
+ <br> <br>
 ---
 <details>
   <summary><b> 🔍 SKILLS </b></summary>
@@ -36,7 +36,7 @@ Our team leverages the latest technologies to create seamless, high-performance 
 </details>
 
 ## Social Media:
-Be one of the first to join our growing community and transform your everyday life.
+You can contact me via:
 
 
 
